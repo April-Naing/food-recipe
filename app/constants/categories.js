@@ -1,0 +1,15 @@
+export const Categories = [
+  { label: "Seafood", value: "Seafood" },
+  { label: "Beef", value: "Beef" },
+  { label: "Chicken", value: "Chicken" },
+  { label: "Dessert", value: "Dessert" },
+  { label: "Lamb", value: "Lamb" },
+  { label: "Miscellaneous", value: "Miscellaneous" },
+  { label: "Pasta", value: "Pasta" },
+  { label: "Pork", value: "Pork" },
+  { label: "Side", value: "Side" },
+  { label: "Starter", value: "Starter" },
+  { label: "Vegan", value: "Vegan" },
+  { label: "Vegetarian", value: "Vegetarian" },
+  { label: "Breakfast", value: "Breakfast" },
+];
